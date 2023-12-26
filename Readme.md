@@ -17,14 +17,13 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/Mantle0x.git
+git clone https://github.com/Mantle/Mantle0x.git
 Navigate to the project directory:
-bash
-Copy code
+
 cd Mantle0x
 Install the required dependencies:
-Copy code
 npm install
+
 Usage
 Provide detailed instructions on how to use Mantle0x, including code snippets, configuration settings, and examples.
 
